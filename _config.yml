@@ -1,5 +1,7 @@
 port: 8080
 
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'CNAME']
+
 collections:
     authors:
         output: true
