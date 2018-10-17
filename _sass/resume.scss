@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200|Quicksand');
+
+.resume.header {
+  margin-top: 20px;
+}
+
+.resume.photo {
+  height: 200px;
+  width: 200px;
+}
+.resume.name {
+  display: block;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 48px;
+  font-weight: 200;
+  line-height: 48px;
+}
+
+.resume.address {
+  padding-top: 50px;
+  span {
+    display: block;
+  }
+}
+
+.legend {
+  margin-top: 40px;
+}
+
+.diagram {
+  margin-top: 30px;
+  >.col {
+    padding: 0 40px;
+  }
+}
