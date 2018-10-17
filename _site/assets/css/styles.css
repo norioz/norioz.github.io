@@ -1,5 +1,16 @@
 body {
   padding-top: 59px; }
+  body .main.card-container {
+    position: relative;
+    margin-top: -35px; }
+    body .main.card-container .card > a {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%; }
+  body .main.twitter-grid {
+    margin-top: 75px; }
 
 .post-top {
   background: #563d7c;
