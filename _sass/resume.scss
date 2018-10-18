@@ -25,11 +25,30 @@
 
 .legend {
   margin-top: 40px;
+  .col {
+    line-height: 16px;
+    text-align: center;
+  }
+}
+
+.legend-icon {
+  border-radius: 3px;
+  display: inline-block;
+  height: 20px;
+  margin-right: 7px; 
+  width: 20px;
 }
 
 .diagram {
-  margin-top: 30px;
+  margin-top: 50px;
   >.col {
     padding: 0 40px;
+  }
+}
+
+.footer {
+  margin-top: 80px;
+  >.col {
+    font-size: 12px;
   }
 }
