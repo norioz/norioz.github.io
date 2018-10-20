@@ -1,6 +1,6 @@
 port: 8080
 
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'CNAME']
+exclude: ['README.md', 'NOTES.md', 'Gemfile.lock', 'Gemfile', 'CNAME']
 
 collections:
     authors:

@@ -1,2 +1,9 @@
 # norioz.github.io
-Github Pages personal website.
+Personal website, served through github.pages.
+
+## Build & Run Locally
+
+```
+bundle install
+bundle exec jekyll serve
+```
