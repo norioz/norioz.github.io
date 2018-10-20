@@ -1,19 +1,23 @@
+# TODOs
 
+* Quick animate up the body on the posts page.
+* Find a nicer way to display tweet info on main page.
 
-Bootstrap 4
+# Setup
+## Bootstrap 4
 https://getbootstrap.com
 
-Google fonts
+## Google fonts
 https://gonts.google.com
 - Montserrat
 
-How to set up CloudFlare with github.pages
-https://gist.github.com/cvan/8630f847f579f90e0c014dc5199c337b
-CloudFlare login
-https://dash.cloudflare.com/login
-digdggr@gmail.com
+## CloudFlare 
 
-For animation use animate.css
-https://github.com/daneden/animate.css
-THIS IS NOT YET INCLUDED
-- quick animate up the post page
+How to set up CloudFlare with github.pages: [gist](https://gist.github.com/cvan/8630f847f579f90e0c014dc5199c337b)
+
+CloudFlare [login](https://dash.cloudflare.com/login)
+
+username = digdggr@gmail.com
+
+## Animation (NOT YET INCLUDED)
+For animation use [animate.css](https://github.com/daneden/animate.css)
