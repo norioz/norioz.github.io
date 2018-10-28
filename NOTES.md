@@ -27,3 +27,9 @@ For animation use [animate.css](https://github.com/daneden/animate.css)
 ## LFG
 
 Mid-plat looking for folks to play with regularly. West coast (pacific time). Available evenings. I play Ana, Mercy, Moira, Rein, Sombra, Tracer, Winston, Zen.
+
+## Roster
+
+### Possibilities
+
+iknoyu#1376 - (v8r: /r/Overwatch) mid plat looking for duo or trio play mostly dps
